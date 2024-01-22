@@ -1,0 +1,7 @@
+{
+  "name": "PrimerosPasos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
